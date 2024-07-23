@@ -31,7 +31,7 @@ Of course, you can continue to use the [2.x](https://github.com/CymChad/BaseRecy
 [wiki](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/wiki)
 
 
-# proguard-rules.pro
+# proguard-rules.pro    
 > 此资源库自带混淆规则，并且会自动导入，正常情况下无需手动导入。
 
 > The library comes with `proguard-rules.pro` rules and is automatically imported. Normally no manual import is required.
